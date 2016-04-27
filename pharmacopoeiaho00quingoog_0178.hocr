@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pharmacopoeiaho00quingoog_0178.png"; bbox 0 0 921 1402; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 365 149 713 169">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 365 149 713 169">
+     <span class='ocr_line' id='line_1_1' title="bbox 365 149 713 169; baseline 0.003 -1"><span class='ocrx_word' id='word_1_1' title='bbox 365 154 544 168; x_wconf 72' lang='grc' dir='ltr'>ιιοΜωοΡΑτιυσΑ.</span> <span class='ocrx_word' id='word_1_2' title='bbox 674 149 713 169; x_wconf 86' lang='grc'>143</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 357 512 530 538">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 357 512 530 538">
+     <span class='ocr_line' id='line_1_2' title="bbox 357 512 530 538; baseline 0.006 -1"><span class='ocrx_word' id='word_1_3' title='bbox 357 512 530 538; x_wconf 80' lang='lat' dir='ltr'><strong>TABULA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 405 569 492 578">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 405 569 492 578">
+     <span class='ocr_line' id='line_1_3' title="bbox 405 569 492 578; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 405 569 492 578; x_wconf 57' lang='lat' dir='ltr'>tunsum-n</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 224 598 670 670">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 224 598 670 670">
+     <span class='ocr_line' id='line_1_4' title="bbox 224 598 670 617; baseline 0.004 -4"><span class='ocrx_word' id='word_1_5' title='bbox 224 598 301 617; x_wconf 82' lang='lat' dir='ltr'>DOSIN,</span> <span class='ocrx_word' id='word_1_6' title='bbox 315 598 472 614; x_wconf 80' lang='lat' dir='ltr'>DUKATIONEM</span> <span class='ocrx_word' id='word_1_7' title='bbox 487 598 515 614; x_wconf 81' lang='lat' dir='ltr'>ET</span> <span class='ocrx_word' id='word_1_8' title='bbox 528 598 670 615; x_wconf 80' lang='lat' dir='ltr'>ANTIDOTUM</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 275 625 619 642; baseline -0.003 -1"><span class='ocrx_word' id='word_1_9' title='bbox 275 625 502 641; x_wconf 74' lang='lat' dir='ltr'>MEDICAMENTORUM</span> <span class='ocrx_word' id='word_1_10' title='bbox 517 625 619 642; x_wconf 74' lang='lat' dir='ltr'>HOMOEo-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 368 652 528 670; baseline 0.006 -1"><span class='ocrx_word' id='word_1_11' title='bbox 368 652 528 670; x_wconf 66' lang='lat' dir='ltr'>1‘A&#39;1&#39;111C011UM.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
